@@ -1,0 +1,22 @@
+{
+  "name": "zircon-taf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzmitry-kamarou/zircon-taf-js.git"
+  },
+  "author": "dzmitry-kamarou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzmitry-kamarou/zircon-taf-js/issues"
+  },
+  "homepage": "https://github.com/dzmitry-kamarou/zircon-taf-js#readme",
+  "dependencies": {
+    "cypress": "^10.9.0"
+  }
+}
